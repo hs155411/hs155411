@@ -1,0 +1,3 @@
+- 👋 Hi, I’m JY
+- 👀 I’m interested in exercise
+- 🌱 I’m currently learning coding
